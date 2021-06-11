@@ -1,0 +1,6 @@
+/* Organize Images in brushes page */
+.BIColumn {
+    float:right;
+    width: 50%;
+    padding: 5px;
+}
